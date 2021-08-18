@@ -1,0 +1,9 @@
+INCLUDE_DIRECTORIES(.)
+INCLUDE_DIRECTORIES(/usr/local/include)
+LINK_DIRECTORIES(/usr/local/lib)
+
+FILE(GLOB CPP_SRC_LIST *.cc)
+
+ADD_LIBRARY(libconet SHARED ${CPP_SRC_LIST})
+
+

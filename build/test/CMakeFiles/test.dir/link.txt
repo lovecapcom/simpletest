@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test.dir/test.cc.o -o ../../bin/test  -Wl,-rpath,/home/goose/code/cpp/so1only/lib ../../lib/liblibconet.so 

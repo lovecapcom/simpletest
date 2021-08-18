@@ -1,0 +1,8 @@
+/home/goose/code/cpp/so1only/build/CMakeFiles/rebuild_cache.dir
+/home/goose/code/cpp/so1only/build/CMakeFiles/edit_cache.dir
+/home/goose/code/cpp/so1only/build/so1/CMakeFiles/rebuild_cache.dir
+/home/goose/code/cpp/so1only/build/so1/CMakeFiles/edit_cache.dir
+/home/goose/code/cpp/so1only/build/so1/CMakeFiles/libconet.dir
+/home/goose/code/cpp/so1only/build/test/CMakeFiles/rebuild_cache.dir
+/home/goose/code/cpp/so1only/build/test/CMakeFiles/edit_cache.dir
+/home/goose/code/cpp/so1only/build/test/CMakeFiles/test.dir

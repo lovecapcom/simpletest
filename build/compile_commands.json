@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/goose/code/cpp/so1only/build/so1",
+  "command": "/usr/bin/c++ -Dlibconet_EXPORTS -I/home/goose/code/cpp/so1only/so1/. -fPIC   -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/libconet.dir/mystring.cc.o -c /home/goose/code/cpp/so1only/so1/mystring.cc",
+  "file": "/home/goose/code/cpp/so1only/so1/mystring.cc"
+},
+{
+  "directory": "/home/goose/code/cpp/so1only/build/test",
+  "command": "/usr/bin/c++  -I/home/goose/code/cpp/so1only/test/../so1   -O0 -g -ggdb -Wno-unused-variable -std=gnu++17 -o CMakeFiles/test.dir/test.cc.o -c /home/goose/code/cpp/so1only/test/test.cc",
+  "file": "/home/goose/code/cpp/so1only/test/test.cc"
+}
+]
